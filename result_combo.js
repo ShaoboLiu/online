@@ -1,1 +1,4 @@
-alert('test')
+export function test()
+{
+  alert('Test);
+}
